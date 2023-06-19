@@ -1,6 +1,6 @@
-# 📡 Training Request System
+# 📡 (Closed) Training Request System
 
-The Training Request System is a website derived from Ivao Ecuador that provides a tool to schedule new training, exam or GCA for pilots or air traffic controllers.
+The Training Request System is a website derived from Ivao Ecuador that provides a tool to schedule new training, exam or GCA for pilots or air traffic controllers. (Closed)
 
 ## Table of Contents 📋
 - General Info
